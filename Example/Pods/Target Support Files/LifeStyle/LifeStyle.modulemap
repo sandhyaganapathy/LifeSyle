@@ -1,0 +1,6 @@
+framework module LifeStyle {
+  umbrella header "LifeStyle-umbrella.h"
+
+  export *
+  module * { export * }
+}

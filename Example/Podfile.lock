@@ -1,0 +1,16 @@
+PODS:
+  - LifeStyle (0.1.0)
+
+DEPENDENCIES:
+  - LifeStyle (from `../`)
+
+EXTERNAL SOURCES:
+  LifeStyle:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LifeStyle: 3265fa8a4966dd903928910ac3492d9fd08b96c6
+
+PODFILE CHECKSUM: 502f2af8144ad13f40e9d114ec8d3586dbd64a19
+
+COCOAPODS: 1.7.2
