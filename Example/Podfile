@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LifeStyle_Example' do
+  pod 'LifeStyle', :path => '../'
+
+  target 'LifeStyle_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
